@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="45cm" height="45cm" viewBox="350 54 889 883" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #b6f3ff" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #b6f3ff" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+  </g>
+  <g>
+    <ellipse style="fill: #b6f3ff" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #b6f3ff" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+  </g>
+  <g>
+    <ellipse style="fill: #3688f0" cx="773.272" cy="789.612" rx="119" ry="30"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="773.272" cy="789.612" rx="119" ry="30"/>
+  </g>
+  <g>
+    <rect style="fill: #3688f0" x="654.302" y="628.106" width="237.973" height="163.133"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="654.302" y="628.106" width="237.973" height="163.133"/>
+  </g>
+  <g>
+    <ellipse style="fill: #3688f0" cx="773.272" cy="629.656" rx="119" ry="30"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="773.272" cy="629.656" rx="119" ry="30"/>
+  </g>
+  <g>
+    <rect style="fill: #3688f0" x="656.476" y="788.966" width="233.846" height="2.9095"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #3688f0" x="656.476" y="788.966" width="233.846" height="2.9095"/>
+  </g>
+  <g>
+    <path style="fill: #e6e6e6" d="M 740.949 704.303 C 740.949,686.644 740.949,686.644 751.985,686.644 C 763.022,686.644 763.022,686.644 774.059,686.644 C 785.095,686.644 785.095,686.644 785.095,704.303 C 785.095,704.303 818.205,704.303 818.205,704.303 C 818.205,704.303 818.205,774.937 818.205,774.937 C 818.205,774.937 740.949,774.937 740.949,774.937 C 740.949,774.937 740.949,721.961 740.949,704.303z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 740.949 704.303 C 740.949,686.644 740.949,686.644 751.985,686.644 C 763.022,686.644 763.022,686.644 774.059,686.644 C 785.095,686.644 785.095,686.644 785.095,704.303 C 785.095,704.303 818.205,704.303 818.205,704.303 C 818.205,704.303 818.205,774.937 818.205,774.937 C 818.205,774.937 740.949,774.937 740.949,774.937 C 740.949,774.937 740.949,721.961 740.949,704.303"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" d="M 740.949 704.303 C 740.949,686.644 740.949,686.644 751.985,686.644 C 763.022,686.644 763.022,686.644 774.059,686.644 C 785.095,686.644 785.095,686.644 785.095,704.303 C 785.095,704.303 818.205,704.303 818.205,704.303 C 818.205,704.303 818.205,774.937 818.205,774.937 C 818.205,774.937 740.949,774.937 740.949,774.937 C 740.949,774.937 740.949,721.961 740.949,704.303"/>
+    <polygon style="fill: #ffffff" points="740.949,774.937 729.912,713.132 807.169,713.132 818.205,774.937 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="740.949,774.937 729.912,713.132 807.169,713.132 818.205,774.937 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" points="740.949,774.937 729.912,713.132 807.169,713.132 818.205,774.937 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="774.059" y="739.205">
+      <tspan x="774.059" y="739.205"></tspan>
+    </text>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="405.946" y="367.4" width="353" height="89" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="405.946" y="367.4" width="353" height="89" rx="10" ry="10"/>
+    </g>
+    <image x="419.946" y="380.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="452.446" y="424.39">
+    <tspan x="452.446" y="424.39">      git-sync</tspan>
+  </text>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="823.292" y="367.4" width="353" height="89" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="823.292" y="367.4" width="353" height="89" rx="10" ry="10"/>
+    </g>
+    <image x="837.292" y="380.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="869.792" y="423.897">
+    <tspan x="869.792" y="423.897">      figureitout</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-linejoin: round; stroke: #000000" x1="582.446" y1="456.4" x2="731.831" y2="592.031"/>
+    <polygon style="fill: #000000" points="737.384,597.072 726.619,594.052 731.831,592.031 733.341,586.649 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="737.384,597.072 726.619,594.052 731.831,592.031 733.341,586.649 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="804.159" y1="599.964" x2="944.043" y2="465.492"/>
+    <polygon style="fill: #000000" points="949.45,460.294 945.706,470.829 944.043,465.492 938.776,463.62 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="949.45,460.294 945.706,470.829 944.043,465.492 938.776,463.62 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376"/>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="54cm" height="45cm" viewBox="350 54 1080 883" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffb5ff" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffb5ff" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ffb5ff" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffb5ff" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="405.946" y="367.4" width="353" height="89" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="405.946" y="367.4" width="353" height="89" rx="10" ry="10"/>
+    </g>
+    <image x="419.946" y="380.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="452.446" y="424.39">
+    <tspan x="452.446" y="424.39">      legacy app</tspan>
+  </text>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="823.292" y="367.4" width="353" height="89" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="823.292" y="367.4" width="353" height="89" rx="10" ry="10"/>
+    </g>
+    <image x="837.292" y="380.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="869.792" y="424.39">
+    <tspan x="869.792" y="424.39">      translation</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-linejoin: round; stroke: #000000" x1="591.31" y1="464.448" x2="740.696" y2="600.078"/>
+    <polygon style="fill: #000000" points="585.757,459.406 596.522,462.426 591.31,464.448 589.8,469.83 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="585.757,459.406 596.522,462.426 591.31,464.448 589.8,469.83 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="812.791" y1="591.667" x2="952.484" y2="457.378"/>
+    <polygon style="fill: #000000" points="807.384,596.865 811.128,586.33 812.791,591.667 818.058,593.539 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="807.384,596.865 811.128,586.33 812.791,591.667 818.058,593.539 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376"/>
+  </g>
+  <text font-size="67.7333" style="fill: #ffffff;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="603.322" y="711.376">
+    <tspan x="603.322" y="711.376">localhost</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="1367.47" y1="411.829" x2="1189.25" y2="411.863"/>
+    <polygon style="fill: #000000" points="1181.75,411.865 1191.75,406.863 1189.25,411.863 1191.75,416.863 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="1181.75,411.865 1191.75,406.863 1189.25,411.863 1191.75,416.863 "/>
+  </g>
+  <text font-size="112.889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1364.26" y="449.918">
+    <tspan x="1364.26" y="449.918">?</tspan>
+  </text>
+</svg>

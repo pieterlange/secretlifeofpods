@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="45cm" height="45cm" viewBox="350 54 889 883" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #b6f3ff" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #b6f3ff" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+  </g>
+  <g>
+    <ellipse style="fill: #b6f3ff" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #b6f3ff" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376"/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="412.6" y="339.4" width="353" height="224.6" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="412.6" y="339.4" width="353" height="224.6" rx="10" ry="10"/>
+    </g>
+    <image x="426.6" y="352.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="810.292" y="339.4" width="353" height="224.6" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="810.292" y="339.4" width="353" height="224.6" rx="10" ry="10"/>
+    </g>
+    <image x="824.292" y="352.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <image x="873" y="408" width="306" height="140.921" xlink:href="file:///home/comp/git/ddy/pres/secretlifeofpods/img/dia/packetbeat-fish-and-cluster.png"/>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="459.1" y="396.39">
+    <tspan x="459.1" y="396.39">      any app</tspan>
+  </text>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="856.792" y="396.39">
+    <tspan x="856.792" y="396.39">      packetbeat</tspan>
+  </text>
+</svg>

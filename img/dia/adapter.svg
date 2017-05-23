@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="63.168cm" height="44.100cm" viewBox="17.500 2.728 80.668 46.829"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<ellipse cx="54.082" cy="10.551" rx="7.772" ry="7.772" fill="#FFB5FF" stroke="none"  /><ellipse cx="54.082" cy="10.551" rx="7.772" ry="7.772" fill="none" stroke="#FFB5FF"  stroke-width="0.100" /><ellipse cx="39.257" cy="25.071" rx="21.707" ry="21.707" fill="#FFB5FF" stroke="none"  /><ellipse cx="39.257" cy="25.071" rx="21.707" ry="21.707" fill="none" stroke="#FFB5FF"  stroke-width="0.100" /><rect x="20.797" y="18.370" width="16.650" height="4.450" fill="#3688F0" stroke="none" stroke-width="0"/>
+<path stroke="none" fill="#3688F0" d ="M 20.797,18.370 A 0.500,0.500 0 0,0 20.297,18.870 "/>
+<path stroke="none" fill="#3688F0" d ="M 37.947,18.870 A 0.500,0.500 0 0,0 37.447,18.370 "/>
+<rect x="20.297" y="18.870" width="17.650" height="3.450" fill="#3688F0" stroke="none" stroke-width="0"/>
+<path stroke="none" fill="#3688F0" d ="M 20.297,22.320 A 0.500,0.500 0 0,0 20.797,22.820 "/>
+<path stroke="none" fill="#3688F0" d ="M 37.447,22.820 A 0.500,0.500 0 0,0 37.947,22.320 "/>
+<line x1="20.797" y1="18.370" x2="37.447" y2="18.370" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<line x1="20.797" y1="22.820" x2="37.447" y2="22.820" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 20.797,18.370 A 0.500,0.500 0 0,0 20.297,18.870 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 37.947,18.870 A 0.500,0.500 0 0,0 37.447,18.370 "/>
+<line x1="20.297" y1="18.870" x2="20.297" y2="22.320" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<line x1="37.947" y1="18.870" x2="37.947" y2="22.320" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 20.297,22.320 A 0.500,0.500 0 0,0 20.797,22.820 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 37.447,22.820 A 0.500,0.500 0 0,0 37.947,22.320 "/>
+<image x="20.997" y="19.020"  width="3.250" height="3.229" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+<text x="22.622" y="21.220"  fill="#FFFFFF" text-anchor="start" font-size="2.12" font-family="sans" font-style="normal" font-weight="700">
+      rails app</text>
+<rect x="41.665" y="18.370" width="16.650" height="4.450" fill="#3688F0" stroke="none" stroke-width="0"/>
+<path stroke="none" fill="#3688F0" d ="M 41.665,18.370 A 0.500,0.500 0 0,0 41.165,18.870 "/>
+<path stroke="none" fill="#3688F0" d ="M 58.815,18.870 A 0.500,0.500 0 0,0 58.315,18.370 "/>
+<rect x="41.165" y="18.870" width="17.650" height="3.450" fill="#3688F0" stroke="none" stroke-width="0"/>
+<path stroke="none" fill="#3688F0" d ="M 41.165,22.320 A 0.500,0.500 0 0,0 41.665,22.820 "/>
+<path stroke="none" fill="#3688F0" d ="M 58.315,22.820 A 0.500,0.500 0 0,0 58.815,22.320 "/>
+<line x1="41.665" y1="18.370" x2="58.315" y2="18.370" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<line x1="41.665" y1="22.820" x2="58.315" y2="22.820" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 41.665,18.370 A 0.500,0.500 0 0,0 41.165,18.870 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 58.815,18.870 A 0.500,0.500 0 0,0 58.315,18.370 "/>
+<line x1="41.165" y1="18.870" x2="41.165" y2="22.320" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<line x1="58.815" y1="18.870" x2="58.815" y2="22.320" stroke="#000000" stroke-width="0.100"  stroke-linejoin="round"/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 41.165,22.320 A 0.500,0.500 0 0,0 41.665,22.820 "/>
+<path stroke="#000000" fill="none" stroke-width="0.100"  stroke-linejoin="round" d ="M 58.315,22.820 A 0.500,0.500 0 0,0 58.815,22.320 "/>
+<image x="41.865" y="19.020"  width="3.250" height="3.229" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+<text x="43.490" y="21.220"  fill="#FFFFFF" text-anchor="start" font-size="2.12" font-family="sans" font-style="normal" font-weight="700">
+      metrics</text>
+<line x1="29.565" y1="23.222" x2="37.035" y2="30.004" stroke="#000000" stroke-width="0.200"  stroke-linejoin="round"/>
+<polygon fill="#000000" stroke="none" stroke-width="0.200" points="29.288,22.970 29.826,23.121 29.565,23.222 29.490,23.491 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.200"  points="29.288,22.970 29.826,23.121 29.565,23.222 29.490,23.491 "/>
+<line x1="40.640" y1="29.583" x2="47.624" y2="22.869" stroke="#000000" stroke-width="0.200" />
+<polygon fill="#000000" stroke="none" stroke-width="0.200" points="40.369,29.843 40.556,29.316 40.640,29.583 40.903,29.677 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.200"  points="40.369,29.843 40.556,29.316 40.640,29.583 40.903,29.677 "/>
+<path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M 52.606,6.519 C 53.023,6.091 57.638,9.888 57.662,10.443 C 57.685,10.998 52.968,14.924 52.641,14.488 C 52.314,14.052 52.189,6.946 52.606,6.519 "/>
+<path stroke="#FFFFFF" fill="none" stroke-width="0.100"  d="M 52.606,6.519 C 53.023,6.091 57.638,9.888 57.662,10.443 C 57.685,10.998 52.968,14.924 52.641,14.488 C 52.314,14.052 52.189,6.946 52.606,6.519 "/>
+<text x="30.166" y="35.569"  fill="#FFFFFF" text-anchor="start" font-size="4.23" font-family="monospace" font-style="normal" font-weight="700">
+localhost</text>
+<image x="67.818" y="14.050"  width="12.800" height="12.850" xlink:href="file:///home/comp/git/ddy/pres/secretlifeofpods/img/dia/prometheus.png"/>
+<line x1="67.720" y1="20.507" x2="59.462" y2="20.548" stroke="#000000" stroke-width="0.200" />
+<polygon fill="#000000" stroke="none" stroke-width="0.200" points="59.087,20.550 59.586,20.298 59.462,20.548 59.589,20.798 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.200"  points="59.087,20.550 59.586,20.298 59.462,20.548 59.589,20.798 "/>
+</svg>

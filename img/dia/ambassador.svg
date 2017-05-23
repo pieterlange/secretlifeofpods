@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="55cm" height="45cm" viewBox="350 54 1087 883" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ff7c7c" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff7c7c" cx="1081.65" cy="211.014" rx="155.447" ry="155.447"/>
+  </g>
+  <g>
+    <ellipse style="fill: #ff7c7c" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ff7c7c" cx="785.148" cy="501.426" rx="434.146" ry="434.146"/>
+  </g>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="405.946" y="367.4" width="353" height="89" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="405.946" y="367.4" width="353" height="89" rx="10" ry="10"/>
+    </g>
+    <image x="419.946" y="380.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="452.446" y="424.39">
+    <tspan x="452.446" y="424.39">      rails app</tspan>
+  </text>
+  <g>
+    <g>
+      <rect style="fill: #3688f0" x="823.292" y="367.4" width="353" height="89" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-linejoin: round; stroke: #000000" x="823.292" y="367.4" width="353" height="89" rx="10" ry="10"/>
+    </g>
+    <image x="837.292" y="380.4" width="65" height="64.5806" xlink:href="file:///home/comp/Pictures/kube-wheel.png"/>
+  </g>
+  <text font-size="33.8667" style="fill: #ffffff;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="869.792" y="424.39">
+    <tspan x="869.792" y="424.39">      twemproxy</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke-linejoin: round; stroke: #000000" x1="582.446" y1="456.4" x2="731.832" y2="592.03"/>
+    <polygon style="fill: #000000" points="737.385,597.072 726.62,594.052 731.832,592.03 733.342,586.648 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="737.385,597.072 726.62,594.052 731.832,592.03 733.342,586.648 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="804.16" y1="599.964" x2="943.853" y2="465.675"/>
+    <polygon style="fill: #000000" points="949.26,460.477 945.516,471.012 943.853,465.675 938.586,463.803 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="949.26,460.477 945.516,471.012 943.853,465.675 938.586,463.803 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #ffffff" d="M 1052.12 130.376 C 1060.46,121.823 1152.77,197.76 1153.23,208.864 C 1153.7,219.966 1059.37,298.482 1052.83,289.758 C 1046.28,281.034 1043.77,138.929 1052.12,130.376"/>
+  </g>
+  <text font-size="67.7333" style="fill: #ffffff;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="603.322" y="711.376">
+    <tspan x="603.322" y="711.376">localhost</tspan>
+  </text>
+  <image x="1360.45" y="249.403" width="75.55" height="76.9491" xlink:href="file:///home/comp/Downloads/AWS_Simple_Icons_v15.10.2/Database/Elasticache/Database_AmazonElasticCache_Redis.png"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="1176.29" y1="411.9" x2="1348" y2="315.946"/>
+    <polygon style="fill: #000000" points="1354.54,312.288 1348.25,321.531 1348,315.946 1343.38,312.801 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="1354.54,312.288 1348.25,321.531 1348,315.946 1343.38,312.801 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="1176.29" y1="411.9" x2="1346.48" y2="411.376"/>
+    <polygon style="fill: #000000" points="1353.98,411.353 1343.99,416.383 1346.48,411.376 1343.96,406.383 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="1353.98,411.353 1343.99,416.383 1346.48,411.376 1343.96,406.383 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="1176.29" y1="411.9" x2="1348.65" y2="532.903"/>
+    <polygon style="fill: #000000" points="1354.79,537.212 1343.73,535.559 1348.65,532.903 1349.48,527.374 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="1354.79,537.212 1343.73,535.559 1348.65,532.903 1349.48,527.374 "/>
+  </g>
+  <image x="1360.45" y="373.602" width="75.55" height="76.9491" xlink:href="file:///home/comp/Downloads/AWS_Simple_Icons_v15.10.2/Database/Elasticache/Database_AmazonElasticCache_Redis.png"/>
+  <image x="1360.45" y="497.8" width="75.55" height="76.9491" xlink:href="file:///home/comp/Downloads/AWS_Simple_Icons_v15.10.2/Database/Elasticache/Database_AmazonElasticCache_Redis.png"/>
+</svg>
