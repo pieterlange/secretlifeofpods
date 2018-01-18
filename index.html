@@ -28,7 +28,6 @@
       <div class="slides" >
         <section>
           <section>
-            <img src="img/logo_digidentity.png" style="border:none; background:none;width:20%;" /><br/>
             <h1>The secret life of Pods</h1>
             <p/>
             <img src="img/david5.jpg" style="border:none; background:none;width:40%;" class="fragment"/><br/>
@@ -38,18 +37,10 @@
             <div id="left">
               <ul>
                 <li>Pieter Lange</li>
-                <li>"DevOps engineer"</li>
+                <li>Infrastructure / DevOps engineer</li>
                 <li>pieter@ptlc.nl</li>
                 <li><a href="https://github.com/pieterlange/">github.com/pieterlange</a></li>
-                <div class="fragment">
-                  <li>Last year with digidentity:</li>
-                  <ul>
-                    <li>New infrastructure architecture</li>
-                    <li>Automated dev environments</li>
-                    <li>Enhanced monitoring</li>
-                    <li>Assisting with 12factorisation</li>
-                  </ul>
-                </div>
+                <li class="fragment">Specialize in kubernetes based deployments</li>
               </ul>
             </div>
             <div id="right">
@@ -103,7 +94,7 @@
             <h2>What is a Pod?</h2>
             <small>Running instances of applications</small><br/>
             <ul>
-              <li>"Smallest schedulable unit"</li>
+              <li>Smallest schedulable unit</li>
               <li>One or more containers that share the namespace/are tightly coupled</li>
               <li><em>Ephemeral!</em></li>
               <li>Namespace?</li>
@@ -142,15 +133,15 @@
               <li>Start docker build</li>
               <li>Push artifact to registry</li>
               <li>Notify deployment manager</li>
-              <li>Automatic canary deployment</li>
+              <li>Automatic canary/feature deployment</li>
               <li>(Choose environment to deploy to)</li>
             </ol>
             <p/>
           </section>
           <section>
-            <h2>That's all folks!</h2>
-            <small class="fragment">(Want to know more? Come work with us.)</small><br/>
-            <img src="img/david3.jpg" style="border:none; background:none;width:40%;" /><br/>
+            <h2>Birth certificate</h2>
+            <img src="img/grafeas-logo.svg" style="border:none; background:none;width:20%;" /><br/>
+            <a href="https://grafeas.io">https://grafeas.io</a><br/>
           </section>
         </section>
         <section>
@@ -169,9 +160,9 @@
             <ol>
               <li>Replication controllers</li>
               <li>Deployments (ReplicaSets)</li>
-              <li>Jobs</li>
+              <li>Cronjobs (Jobs)</li>
               <li class="fragment">DaemonSet</li>
-              <li class="fragment">PetSet</li>
+              <li class="fragment"><s>PetSet</s></li><div class="fragment">StatefulSet</div>
             </ol>
           </section>
           <section>
@@ -187,7 +178,7 @@ spec:
   - command:
     - sleep
     - "86400"
-    image: alpine:3.4
+    image: alpine:3.7
     name: alpine
               </code>
             </pre>
@@ -218,7 +209,7 @@ spec:
       - command:
         - sleep
         - "86400"
-        image: alpine:3.4
+        image: alpine:3.7
         name: alpine
                 </code>
               </pre>
@@ -256,7 +247,7 @@ spec:
              <code data-trim data-noescape>
 containers:
 - name: mycontainer
-  image: alpine:3.4
+  image: alpine:3.7
   <...>
   env:
   - name: MY_ENVIRONMENT_VARIABLE
@@ -276,7 +267,7 @@ containers:
              <code data-trim data-noescape>
 containers:
 - name: mycontainer
-  image: alpine:3.4
+  image: alpine:3.7
   <...>
   env:
   - name: LOG_LEVEL
@@ -297,7 +288,7 @@ containers:
              <code data-trim data-noescape>
 containers:
 - name: mycontainer
-  image: alpine:3.4
+  image: alpine:3.7
   <...>
   env:
   - name: DATABASE_URL
@@ -318,7 +309,7 @@ containers:
              <code data-trim data-noescape>
 containers:
 - name: mycontainer
-  image: alpine:3.4
+  image: alpine:3.7
   <...>
   env:
   - name: MY_POD_NAME
@@ -328,6 +319,26 @@ containers:
               </code>
             </pre>
           </section>
+          <section data-transition="fade-in fade-out">
+            <h2>The environment</h2>
+            <em><small>Variables</small></em><br/>
+            <ul>
+              <li>Load all key/value pairs from ConfigMap or Secret using envFrom</li>
+            </ul>
+            <pre style="width:30%; align:center;">
+             <code data-trim data-noescape>
+containers:
+- name: mycontainer
+  image: alpine:3.7
+  envFrom:
+  - secretRef:
+      name: app-secrets
+  - configMapRef:
+      name: app-configs
+              </code>
+            </pre>
+          </section>
+
           <section>
             <h2>The environment</h2>
             <em><small>Volumes</small></em><br/>
@@ -435,8 +446,13 @@ readinessProbe:
                 </ul>
 							</ul>
               </div>
+              <li class="fragment">RBAC</li>
               <div class="fragment">
-              <li>CNI (distributed firewall)</li>
+              <li>NetworkPolicy (distributed firewall)</li>
+                <ul>
+                  <li>Ingress</li>
+                  <li>Egress</li>
+                </ul>
               </div>
             </ul>
           </section>
@@ -506,32 +522,17 @@ readinessProbe:
             <small>"Extend and enhance"</small><br/>
             <img src="img/dia/sidecar-packetbeat.png" style="border:none; background:none;width:30%" />
             <br/>
-            <a href="https://github.com/pieterlange/docker-packetbeat">https://github.com/pieterlange/docker-packetbeat</a>
           </section>
 				</section>
         <section>
           <section data-transition="fade-out">
-            <h1>Almost...</h1>
-            <div id="left" style="width:35%">
-              <img src="img/roundtuit.jpg" style="border:none; background:none;width:90%"/><br/>
-            </div>
-            <div id="right" style="width:65%">
-              Shameless plugs:<br/>
-              <ul>
-                <li><a href="https://github.com/pieterlange/kube-openvpn">https://github.com/pieterlange/kube-openvpn</a></li>
-                <li class="fragment">Got excited? We're looking for skilled engineers!</li>
-                <ul>
-                  <li class="fragment">Rails guru's</li>
-                  <li class="fragment">Operations wizards/devops</li>
-                  <li class="fragment">Mobile developers</li>
-                </ul>
-                <li class="fragment"><a href="https://www.digidentity.eu">www.digidentity.eu</a></li>
-              </ul>
-            </div>
-          </section>
-          <section data-transition="fade-in">
-            <h1>Finally!</h1>
-            <h5>Thank you for your attention!</h5>
+            <h1>Questions?</h1>
+            <img src="img/betterfaster.svg" style="border:none; background:none;width:15%" /><br/>
+            Shameless plugs:<br/>
+            <ul>
+              <li><a href="https://github.com/pieterlange/kube-openvpn">https://github.com/pieterlange/kube-openvpn</a></li>
+              <li><a href="https://github.com/pieterlange/kube-backup">https://github.com/pieterlange/kube-backup</a></li>
+            </ul>
           </section>
         </section>
       </div>
